@@ -6,5 +6,5 @@ public enum CylinderNumber {
     THREE,
     FOUR,
     FIVE,
-    SIX;
+    SIX
 }
