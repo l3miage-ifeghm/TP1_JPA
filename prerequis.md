@@ -24,7 +24,8 @@ Cette commande va créer 2 conteneurs, un `postgres` et `pgAdmin`
 * Il vous permet d'avoir une vision directe sur votre base de données ici : [pgAdmin](http://localhost:5050)
 * Identifiant de connexion :
 ```yml
-email : admin@admin.com
+email : 
+
 password: root
 ```
 

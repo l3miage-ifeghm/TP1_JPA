@@ -1,4 +1,4 @@
-package fr.uga.l3miage.tp1.exo1;
+package fr.uga.l3miage.tp1.exo1.models;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
